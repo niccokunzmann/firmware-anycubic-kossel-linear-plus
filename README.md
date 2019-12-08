@@ -3,8 +3,9 @@
 Diese Firmware ist Teil des [Workshops 3d-Drucker-Bau](https://pad.medialepfade.net/2019-12-07-3d-workshop).
 
 Das gibt es zum Runterladen:
-- [Unmodifizierte Version von James](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/releases/tag/james-unmmodified) [[Download](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/archive/james-unmmodified.zip)]
+- [Cura-Profil](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/raw/master/tunedkosselLinearplus.curaprofile)
 - [Modifizierte Version von Nicco](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/tree/master) [[Download](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/archive/master.zip)]
+- [Unmodifizierte Version von James](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/releases/tag/james-unmmodified) [[Download](https://github.com/niccokunzmann/firmware-anycubic-kossel-linear-plus/archive/james-unmmodified.zip)]
 
 
 ## Output Upload
