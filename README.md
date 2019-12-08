@@ -3,7 +3,14 @@
 Diese Firmware ist Teil des [Workshops 3d-Drucker-Bau](https://pad.medialepfade.net/2019-12-07-3d-workshop).
 
 
-## Output
+## Output Upload
+
+```
+Sketch uses 157752 bytes (62%) of program storage space. Maximum is 253952 bytes.
+Global variables use 4827 bytes (58%) of dynamic memory, leaving 3365 bytes for local variables. Maximum is 8192 bytes.
+```
+
+## Output Compile
 
 ```
 In file included from sketch/MarlinConfig.h:30:0,
