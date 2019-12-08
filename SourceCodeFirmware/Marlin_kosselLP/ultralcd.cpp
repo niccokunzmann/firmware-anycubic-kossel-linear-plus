@@ -860,7 +860,7 @@ void lcd_quick_feedback(const bool clear_buttons) {
       wait_for_heatup = wait_for_user = false;
       abort_sd_printing = true;
       lcd_setstatusPGM(PSTR(MSG_PRINT_ABORTED), -1);
-      lcd_return_to_status();
+      lcd_return_to_status(); // NICCO: Print abort
     }
 
   #endif // SDSUPPORT
@@ -2847,7 +2847,7 @@ void lcd_quick_feedback(const bool clear_buttons) {
     }
 
     void _lcd_delta_calibrate_home() {
-      enqueue_and_echo_commands_P(PSTR("G28"));
+      enqueue_and_echo_commands_P(PSTR("G28")); // NICCO: homing
       lcd_goto_screen(_lcd_calibrate_homing);
     }
 
